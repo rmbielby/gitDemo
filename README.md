@@ -87,7 +87,7 @@ That's created a second copy of the repo on our local machine. Next we want to s
 
 ```
 cd gitDemo
-git checkout -b add-main-table
+git checkout add-main-table
 ```
 
 This should give you some output that looks like the following:
